@@ -2,7 +2,8 @@
 
 This code produces SBC proofs as decscribe in the paper
 
-*Conditional Autarkies: Hard Formulas Made Easy* by Bonacina, Bonet, Kolokolova, Lauria (2026)
+*Conditional Autarkies: Hard Formulas Made Easy* by Bonacina, Bonet, Kolokolova, Lauria (2026) [[URL](https://doi.org/10.4230/LIPIcs.SAT.2026.8)]
+
 
 Python is needed to produce the formulas and the proofs. In particular
 it  is  possible   to  produce  the  formula   using  cnfgen  program,
