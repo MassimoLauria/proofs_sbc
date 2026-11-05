@@ -1,0 +1,4 @@
+sbc-check
+*.cnf
+*.sbc
+*.log
