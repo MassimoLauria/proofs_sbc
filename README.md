@@ -32,6 +32,6 @@ examples for each of the formula families
 - relativized pigeonhole principle from N+1 to N
 
 External programs: 
-- [cnfgen](https://pypi.org/project/CNFgen/) for PyPi
+- [cnfgen](https://pypi.org/project/CNFgen/) from PyPi
 - [cnfgen](https://github.com/MassimoLauria/cnfgen) repository
 - [dpr-trim](https://github.com/marijnheule/dpr-trim) repository
