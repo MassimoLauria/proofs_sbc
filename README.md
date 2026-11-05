@@ -31,6 +31,7 @@ examples for each of the formula families
 - matching on mutilated chessboard NxN  (even N)
 - relativized pigeonhole principle from N+1 to N
 
-External programs: [cnfgen](https://pypi.org/project/CNFgen/)
-[cnfgen](https://github.com/MassimoLauria/cnfgen)
-[dpr-trim](https://github.com/marijnheule/dpr-trim)
+External programs: 
+- [cnfgen](https://pypi.org/project/CNFgen/) for PyPi
+- [cnfgen](https://github.com/MassimoLauria/cnfgen) repository
+- [dpr-trim](https://github.com/marijnheule/dpr-trim) repository
